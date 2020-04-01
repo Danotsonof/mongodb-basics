@@ -1,8 +1,8 @@
 ![Application Task](applications.png)
-<br>
+<br> Picture showing applications
 
 ![Database Task](database.png)
-<br>
+<br> Picture showing created database
 
 ![Collection Task](collection.png)
-<br>
+<br> Picture showing created collection, interns
