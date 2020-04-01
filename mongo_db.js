@@ -6,10 +6,7 @@ mongoClient.connect(url, { useUnifiedTopology: true }, function (err, db) {
     
 if (err) throw err;
 
-db.createCollection( 'interns',
-    {
-    }, console.log('Database created by Danotsonof')
- )
+console.log('Database created by Danotsonof')
 
 db.close();
 
